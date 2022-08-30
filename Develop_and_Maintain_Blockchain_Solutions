@@ -6,8 +6,25 @@ https://bitcoin.org/bitcoin.pdf
 
 1.1 Establish blockchain objectives, purpose and requirements
 according to organisational needs
-    ₿ Fork this repo and describe the BTC blockchain objectives, purpose and requirements of YOUR industry
+    ₿ Fork this repo and describe the BTC blockchain objectives, purpose and requirements of YOUR industryObservability: The people (or things) involved in the contract have to be able to see that the other party is performing correctly to the terms of the contract, and be able to prove that they themselves are performing correctly to the other party.
 
 
 
+
+
+
+
+
+
+
+3.4 Execute smart command in required platform according to blockchain solution
+ ₿ Define how the BTC blockchain is a smart contract platform, and how it interacts with your project.
+ https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
+Verifiability: All parties to a contract need the ability to prove to the chosen arbitrator of the contract that it has either been performed correctly or that one party (or parties) have breached their obligations in the contract.
+
+Privity: The contract should be structured as privately as possible. The amount of private information about the contract or the parties involved that is disseminated beyond them to the public or other third parties should be kept to the bare minimum necessary to execution of the contract.
+
+Enforceability: There needs to be some mechanism of ensuring that things execute correctly, even in the case of one or more parties violating their obligations under the terms of the contract, and as well, the contract should be structured to make the likelihood that enforcement will be needed very unlikely. Contracts should encourage parties to voluntarily comply with their obligations under the terms.
+
+The design goals above effectively exist to provide the highest odds that contracts will execute correctly in the vast majority of cases, while simultaneously protecting the details of the contract from the prying eyes of the public unless revealing those details is absolutely necessary to give the contract the highest odds of ending with proper execution of the terms.
 
